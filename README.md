@@ -20,5 +20,10 @@ Security Development Lifecyle Models
 Threat Modeling
 Data flow diagram -> Threat Modeling Tools
 
+Python Tools
+------------
+pip install --upgrade pip
+pip install --upgrade pwntools
+
 
 
